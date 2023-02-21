@@ -45,7 +45,7 @@ export default function Layout({
               height="30"
               className="mr-2 rounded-sm"
             ></Image>
-            <p>Precedent</p>
+            <p className="text-green-700">EverGreen</p>
           </Link>
           <div>
             <AnimatePresence>
@@ -69,7 +69,7 @@ export default function Layout({
       </main>
       <div className="absolute w-full border-t border-gray-200 bg-white py-5 text-center">
         <p className="text-gray-500">
-          A free template by{" "}
+          Cái này thử tiếng Việt{" "}
           <a
             className="font-medium text-gray-800 underline transition-colors"
             href="https://twitter.com/steventey"
